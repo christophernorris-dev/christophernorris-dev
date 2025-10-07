@@ -1,5 +1,5 @@
-# Hi, I'm <Your Name> 👋
-**PRCTC Junior — Cybersecurity & Networking**
+# Hi, I'm Chris Norris 👋
+**PRCTC Instructor — Cybersecurity & Networking**
 
 - 📚 Currently studying: A+, Network+, Linux basics, Packet Tracer labs, Windows & Linux hardening
 - 🛠️ Tools: Wireshark · Nmap · Packet Tracer · Kali · PowerShell · Bash · Git
